@@ -31,7 +31,7 @@
     "react-dom": "^18.3.1",
     "react-hook-form": "^7.71.0",
     "react-joyride": "^2.9.3",
-    "react-router": "^7.11.0",
+    "react-router": "^7.18.2",
     "socket.io-client": "^4.8.1",
     "tailwind-merge": "^3.4.0",
     "tailwindcss": "^4.1.18",
@@ -51,8 +51,8 @@
     "happy-dom": "^12.10.3",
     "prettier-plugin-tailwindcss": "^0.7.2",
     "typescript": "^5.7.2",
-    "vite": "^6.0.5",
+    "vite": "^8.3.4",
     "vite-plugin-svgr": "^4.5.0",
-    "vitest": "^1.1.0"
+    "vitest": "^5.0.5"
   }
 }
